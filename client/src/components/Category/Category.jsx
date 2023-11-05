@@ -18,7 +18,7 @@ const Category = () => {
   return (
     
         <div>
-            <table>
+            <table className='table table-bordered'>
                 <thead>
                     <tr>
                         <th>ID</th>
